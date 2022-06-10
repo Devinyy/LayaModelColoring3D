@@ -1,0 +1,27 @@
+{
+    "x":0,
+    "type":"Image",
+    "selectedBox":24,
+    "selecteID":26,
+    "searchKey":"Image,pen",
+    "props":{"y":0,"x":0,"width":50,"skin":"AirBrush Brush 02.png","presetID":1,"preset":"laya/pages/prefab/pen1.prefab","name":"pen","isPresetRoot":true,"height":50,"anchorY":0.5,"anchorX":0.5},
+    "nodeParent":-1,
+    "maxID":27,
+    "label":"pen",
+    "isOpen":true,
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":24,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

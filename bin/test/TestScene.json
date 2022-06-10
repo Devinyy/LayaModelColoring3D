@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":640,"runtime":"script/GameUI.ts","positionVariance_0":100,"maxPartices":100,"height":1136},"compId":1,"child":[{"type":"Button","props":{"y":670,"x":501,"var":"btnChangeColor","skin":"comp/button.png","label":"改变颜色"},"compId":48}],"loadList":["comp/button.png"],"loadList3D":[]}
